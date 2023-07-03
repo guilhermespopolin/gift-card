@@ -120,11 +120,11 @@ body {
 }
 
 .front {
-  background-image: url("/assets/front.png");
+  background-image: url("assets/front.png");
 }
 
 .back {
-  background-image: url("/assets//back.png");
+  background-image: url("assets//back.png");
   transform: rotateY(180deg);
 }
 
